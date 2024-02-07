@@ -13,9 +13,6 @@ p
 @src/main/java/edu/icet/crm/services/impl/StudentServiceImpl.java,9\d\9d1e739bbaf7b71779cddbde054f7748f948e2bc
 l
 <src/main/java/edu/icet/crm/repository/StudentRepository.java,8\0\80a0631af294257d6b51ebde19b09b96ceb31fff
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 d
 4src/main/java/edu/icet/crm/entity/StudentEntity.java,9\4\94407a9c29e2573ec85cc85daa06e2d0f50ddcfd
 G
