@@ -10,8 +10,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
-@RestController
 @CrossOrigin
+@RestController
 @RequestMapping(path = "/student")
 public class StudentController {
     @Autowired
